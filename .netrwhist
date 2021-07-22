@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/luizotavio/Desktop/vim-c'
 let g:netrw_dirhist_5='/Users/luizotavio/Desktop/graphql-course-front-end'
 let g:netrw_dirhist_4='/Users/luizotavio/Desktop/graphql-course-front-end/src/page-templates/Home'
 let g:netrw_dirhist_3='/Users/luizotavio/Desktop/graphql-course-front-end/src/page-templates'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_0='/Users/luizotavio/Desktop/graphql-course-front-end/src'
 let g:netrw_dirhist_9='/Users/luizotavio/Desktop/graphql-course-front-end'
 let g:netrw_dirhist_8='/Users/luizotavio/Desktop/graphql-course-front-end/src'
 let g:netrw_dirhist_7='/Users/luizotavio/Desktop/graphql-course-front-end'
-let g:netrw_dirhist_6='/Users/luizotavio/Desktop/graphql-course-front-end/src/page-templates/Home'
